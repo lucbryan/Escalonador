@@ -1,0 +1,11 @@
+35;evolution-addressbook-factory;28;15;0
+62;at-spi2-registryd;27;12;0
+63;scsi_tmf_2;9;7;0
+76;kworker1:1;20;1;0
+109;unity-panel-service;12;5;0
+113;accounts-daemon;19;7;0
+123;systemd-udevd;8;12;0
+138;watchdog3;20;14;0
+133;ksmd;28;18;10
+134;gnome-keyring-daemon;31;18;10
+88;gvfsd;32;8;8

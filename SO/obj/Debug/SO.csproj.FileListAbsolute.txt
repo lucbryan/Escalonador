@@ -1,0 +1,28 @@
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.csprojAssemblyReference.cache
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.Properties.Resources.resources
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.csproj.GenerateResource.cache
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\bin\Debug\SO.exe.config
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\bin\Debug\SO.exe
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\bin\Debug\SO.pdb
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.FormEscalonador.resources
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.exe
+C:\Users\GSE\Desktop\SO PRE FIM\SO\SO\obj\Debug\SO.pdb
+C:\Users\GSE\Desktop\SO\SO\bin\Debug\SO.exe.config
+C:\Users\GSE\Desktop\SO\SO\bin\Debug\SO.exe
+C:\Users\GSE\Desktop\SO\SO\bin\Debug\SO.pdb
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.csprojAssemblyReference.cache
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.FormEscalonador.resources
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.Properties.Resources.resources
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.csproj.GenerateResource.cache
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.exe
+C:\Users\GSE\Desktop\SO\SO\obj\Debug\SO.pdb
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.csprojAssemblyReference.cache
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.FormEscalonador.resources
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.Properties.Resources.resources
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.csproj.GenerateResource.cache
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.exe
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.pdb
+C:\Users\GSE\Desktop\END(SO)\SO\bin\Debug\SO.exe.config
+C:\Users\GSE\Desktop\END(SO)\SO\bin\Debug\SO.exe
+C:\Users\GSE\Desktop\END(SO)\SO\bin\Debug\SO.pdb
+C:\Users\GSE\Desktop\END(SO)\SO\obj\Debug\SO.ConfigForm.resources
